@@ -785,7 +785,7 @@ exports.bool = {
      * native support for various web standards: DOM handling, CSS selector,
      * JSON, Canvas, and SVG.
      */
-    chrome     : true
+    phantom     : true
   },
 
   // Obsolete options
